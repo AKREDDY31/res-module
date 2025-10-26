@@ -1,7 +1,9 @@
-streamlit>=1.20
-pdfplumber>=0.7.6
-scikit-learn>=1.0
+streamlit
+pdfplumber
 pandas
+numpy
+scikit-learn
 matplotlib
 nltk
-streamlit-lottie requests
+streamlit-lottie
+requests

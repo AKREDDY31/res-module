@@ -4,4 +4,4 @@ scikit-learn>=1.0
 pandas
 matplotlib
 nltk
-pip install streamlit-lottie requests
+streamlit-lottie requests
